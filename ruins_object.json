@@ -1,4 +1,5 @@
-"ruin_floorobject":["doll", "crystal", "glass", "skull", "clock", "chain", "book", "toy", "instrument", "lamp", "machine", "bottle", "shoe", "painting", "statue", "paint brush", "mannequin", "cage", "coffin", "weapon", "television", "telephone", "lightbulb"],
-"ruin_wallobject":["painting", "drawing", "note", "writing", "diagram", "schematic", "wallpaper", "mirror", "symbol", "plant", "pattern", "crystal", "fresco", "mosaic", "paint"],
-"ruin_specialobject":["painting", "drawing", "note", "writing", "plant", "tree", "leaf", "crystal", "clock", "fairy", "book", "firefly", "acorn", "flower", "mirror", "light", "skull",  "fish", "tophat", "#floorobject#", "documents"],
-
+{
+	"ruin_floorobject": ["doll", "crystal", "glass", "skull", "clock", "chain", "book", "toy", "instrument", "lamp", "machine", "bottle", "shoe", "painting", "statue", "paint brush", "mannequin", "cage", "coffin", "weapon", "television", "telephone", "lightbulb"],
+	"ruin_wallobject": ["painting", "drawing", "note", "writing", "diagram", "schematic", "wallpaper", "mirror", "symbol", "plant", "pattern", "crystal", "fresco", "mosaic", "paint"],
+	"ruin_specialobject": ["painting", "drawing", "note", "writing", "plant", "tree", "leaf", "crystal", "clock", "fairy", "book", "firefly", "acorn", "flower", "mirror", "light", "skull", "fish", "tophat", "#floorobject#", "documents"]
+}

@@ -1,10 +1,11 @@
-"forestbird":["blackbird", "raven", "owl", "blue tit", "black tit"],
-"forestmammal":["bear", "deer", "bunny", "fox", "squirrel", "hedgehog"],
-"forestamphibian":["toad", "frog"],
-"forestcritter":["snail", "grasshopper", "woodlouse", "ladybug", "ant", "wasp", "bee", "worm", "dragonfly", "hornet"],
+{
+	"forestbird": ["blackbird", "raven", "owl", "blue tit", "black tit"],
+	"forestmammal": ["bear", "deer", "bunny", "fox", "squirrel", "hedgehog"],
+	"forestamphibian": ["toad", "frog"],
+	"forestcritter": ["snail", "grasshopper", "woodlouse", "ladybug", "ant", "wasp", "bee", "worm", "dragonfly", "hornet"],
 
 
 
-"forestanimal":["#forestbird#", "#forestmammal#", "#forestamphibian#", "#forestcritter#"],
-"forestanimal_emoji":["bear🐻", "deer 🦌", "bunny🐰", "snail🐌", "bird", "blackbird", "raven", "frog 🐸", "fox 🦊", "squirrel 🐿", "owl 🦉"],
-
+	"forestanimal": ["#forestbird#", "#forestmammal#", "#forestamphibian#", "#forestcritter#"],
+	"forestanimal_emoji": ["bear🐻", "deer 🦌", "bunny🐰", "snail🐌", "bird", "blackbird", "raven", "frog 🐸", "fox 🦊", "squirrel 🐿", "owl 🦉"]
+}

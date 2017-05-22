@@ -1,2 +1,3 @@
-"ecosystem":["rivulet", "lake", "swamp", "forest", "meadow", "river", "pond", "hill", "cave", "clearing"],
-
+{
+	"ecosystem": ["rivulet", "lake", "swamp", "forest", "meadow", "river", "pond", "hill", "cave", "clearing"]
+}

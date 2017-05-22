@@ -1,2 +1,4 @@
-"foresttree":["beech", "pine", "acorn", "birch", "oak"],
-"forestplant":["fern", "moss", "lichen", "amanita", "mushroom", "bush", "flower", "clover", "sapling"],
+{
+	"foresttree": ["beech", "pine", "acorn", "birch", "oak"],
+	"forestplant": ["fern", "moss", "lichen", "amanita", "mushroom", "bush", "flower", "clover", "sapling"]
+}
