@@ -3,7 +3,7 @@
 	"smoothie": ["#fruit# smoothie", "#fruit# and #fruit# smoothie"],
 	"cookie": ["#fruit# cookies", "#nut# cookies"],
 
-	"food_adjective": ["delicious", "spicy", "warm", "special", "good", "bad", "tasty", "cold", "hot"],
+	"food_adjective": ["tasty", "crispy", "delicious", "aromatic", "flavorful", "special"],
 
 	"vegetable": ["onion", "garlic", "tomatoe", "carot", "potatoe", "mushroom", "zucchini", "pumpkin", "cabbage", "bean", "corn", "spinach", "cucumber", "broccoli", "asparagus", "beet", "brussel sprout", "cauliflower", "kale", "squash", "turnip", "celery", "olive", "eggplant", "artichoke", "pea"],
 
