@@ -1,0 +1,9 @@
+{
+	"meal": ["#vegetable# #food_type#"],
+
+	"food_adjective": ["delicious", "spicy", "warm", "special", "good", "bad", "tasty", "cold", "hot"],
+
+	"vegetable": ["onion", "garlic", "tomatoe", "carot", "potatoe", "mushroom", "zucchini", "pumpkin", "cabbage", "bean", "corn", "spinach", "cucumber", "broccoli", "asparagus", "beet", "brussel sprout", "cauliflower", "kale", "squash", "turnip", "celery", "olive", "eggplant", "artichoke", "pea"],
+
+	"food_type": ["soufflé", "casserole", "puree", "stew", "soup", "salad", "sautée"]
+}
