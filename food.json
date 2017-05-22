@@ -1,15 +1,15 @@
 {
 	"meal": ["#vegetable# #meal_type#"],
-    "smoothie": ["#fruit# smoothie", "#fruit# and #fruit# smoothie"],
-    "cookie": ["#fruit# cookies", "#nut# cookies"], 
+	"smoothie": ["#fruit# smoothie", "#fruit# and #fruit# smoothie"],
+	"cookie": ["#fruit# cookies", "#nut# cookies"],
 
 	"food_adjective": ["delicious", "spicy", "warm", "special", "good", "bad", "tasty", "cold", "hot"],
 
 	"vegetable": ["onion", "garlic", "tomatoe", "carot", "potatoe", "mushroom", "zucchini", "pumpkin", "cabbage", "bean", "corn", "spinach", "cucumber", "broccoli", "asparagus", "beet", "brussel sprout", "cauliflower", "kale", "squash", "turnip", "celery", "olive", "eggplant", "artichoke", "pea"],
 
-    "fruit":["banana", "cherry", "strawberry", "orange", "grape", "apple", "peach", "carrot", "lemon", "pear", "blueberry", "cranberry"],
+	"fruit": ["banana", "cherry", "strawberry", "orange", "grape", "apple", "peach", "carrot", "lemon", "pear", "blueberry", "cranberry"],
 
-    "nut": ["almond", "walnut", "hazelnut", "cashew", "pistachio", "macadamia", "peanut"],
+	"nut": ["almond", "walnut", "hazelnut", "cashew", "pistachio", "macadamia", "peanut"],
 
 	"meal_type": ["soufflé", "casserole", "puree", "stew", "soup", "salad", "sautée", "baguette", "sandwich", "bagel"]
 }
