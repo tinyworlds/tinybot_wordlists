@@ -1,9 +1,0 @@
-{
-	"village_name": ["#village_part1##village_part2#"],
-
-
-	"village_part1": ["Holy", "New", "Kings", "Ash", "Black", "Sunder", "White", "Lost", "Ivy", "Ax", "Mine", "Hunger", "Knight", "Bed", "Hunting", "Water", "Coal", "Hay", "North", "East", "South", "West", "Fox", "Spring", "Oakley", "Well", "Old", "Moss", "Little", "Apple", "Peach", "Winter", "Deep", "Summer", "Autumn", "Man", "May", "March", "June", "Farns", "Farn", "Mans", "Grass", "Meadow", "Green", "Red", "Blood", "Corn", "Wheat", "Upper", "Lower", "Cross", "Cow", "Goat", "Lady", "War", "Great", "Cat", "Smith", "Killing", "Fairy", "Bear", "Eagle", "Acorn", "Crab", "Bees", "Bitter", "Pale", "Bronze", "Butter", "Dusk", "Bright", "Brindle", "Wrath", "Fair", "Dun", "Corpse", "Crow", "Rose", "River", "Ghost", "Tuffle", "Broom", "Glover", "Deep", "Dread", "Fever", "Flea", "Grace", "Golden", "Gold", "Grey", "Griffin", "Great", "Giant", "Goats", "Sky", "Gull"],
-
-	"village_part2": ["bridge", "ville", "lake", "pool", "port", "sea", "castle", "moor", "stone", "ford", "hill", "church", "wood", "hall", "field", "ton", "isle", "land", "haven", "beach", "bourne", "farm", "thorne", "grave", "wick", "marsh", "burgh", "lands", "house", "dale", "well", "side", "bane", "cave", "lorn", "claw", "cape", "stones", "water", "town", "mark", "falls", "grave", "bay", "fire", "gate", "fist", "heart", "shield", "shore", "lake", "keep", "watch", "market", "wynd", "guard", "grove", "reach"]
-
-}

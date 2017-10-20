@@ -1,4 +1,15 @@
 {
-	"foresttree": ["beech", "pine", "acorn", "birch", "oak"],
-	"forestplant": ["fern", "moss", "lichen", "amanita", "mushroom", "bush", "flower", "clover", "sapling"]
+"FOREST_PLANTS":"",
+
+	"foresttree":           ["beech", "pine", "acorn", "birch", "oak"],
+
+    "forestflora":          ["#forestplant_leafy#", "#forestplant_moss#", "#flower#", "#forestfungi#"],
+    "forestplant":         ["#forestplant_leafy#", "#flower#"],
+
+	"forestplant_leafy":    ["fern", "clover"],
+    "forestplant_moss":     ["moss", "lichen"],
+    "flower":               ["flower", "dandelion", "rose", "daisy", "lavender", "camomile", "wild garlic"],
+
+    "forestfungi":          ["amanita", "mushroom", "tree mushroom", "fungi"]
 }
+

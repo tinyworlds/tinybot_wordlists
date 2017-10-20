@@ -1,0 +1,10 @@
+{
+"ADJECTIVES":"",
+
+	"good":                 ["#magical#", "#cute#", "#nice#", "#pretty#"],
+	"magical":              ["enchanted", "glowing", "bewitched", "ghostly", "haunted", "occult"],
+	"cute":                 ["fuzzy", "soft", "tiny", "round", "big-eyed", "#pretty#"],
+	"nice":                 ["wonderful", "lovely", "awesome", "amazing", "nice"],
+    "pretty":               ["gorgeous", "beautiful", "pretty", "stunning"],
+    "friendly":             ["friendly", "loving", "caring"]
+}
